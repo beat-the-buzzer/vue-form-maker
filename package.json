@@ -1,0 +1,22 @@
+{
+  "name": "vue-form-maker",
+  "version": "1.0.0",
+  "description": "基于 Vue3 + vue-router + ant-design-vue 的表单生成器",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^7.0.1",
+    "ant-design-vue": "^4.2.3",
+    "dayjs": "^1.11.10",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
+  }
+}
